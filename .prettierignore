@@ -1,0 +1,9 @@
+/dist/**
+/tests/unit/coverage/**
+/dist-ssr/**
+/coverage/**
+/src/assets/font-icons/**
+/charts/**
+/.tasks/**
+Taskfile.yml
+stats.html
